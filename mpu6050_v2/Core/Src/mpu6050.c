@@ -2,7 +2,7 @@
  * mpu6050.c
  *
  *  Created on: Sep 29, 2024
- *      Author: Pheonix
+ *      Author: Daniel
  */
 #include "mpu6050.h"
 #include "main.h"
