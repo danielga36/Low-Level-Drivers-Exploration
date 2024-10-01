@@ -2,7 +2,7 @@
  * mpu6050.h
  *
  *  Created on: Sep 29, 2024
- *      Author: Pheonix
+ *      Author: Daniel
  */
 
 #ifndef INC_MPU6050_H_
