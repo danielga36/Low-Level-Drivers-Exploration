@@ -1,6 +1,6 @@
 # Low-Level Drivers Exploration
 
-This repository is dedicated to my journey in learning low-level driver development on the STM32 G070 Nucleo, using STM32CubeIDE. I am currently writing drivers for both SPI and I2C devices, including the MPU6050 accelerometer.
+This repository is dedicated to my journey in learning low-level driver development on the STM32 G070 Nucleo, using STM32CubeIDE. I am currently writing drivers for both SPI and I2C devices, including the MPU6050 accelerometer and DS323 RTC.
 
 ## Overview
 
@@ -9,6 +9,7 @@ This repository is dedicated to my journey in learning low-level driver developm
 - **Focus:** Developing low-level drivers for SPI and I2C communication protocols
 - **Included Drivers:**
   - MPU6050 (I2C)
+  - DS323   (I2C)
 
 ## Getting Started
 
