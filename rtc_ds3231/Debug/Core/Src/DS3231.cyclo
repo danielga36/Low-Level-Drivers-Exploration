@@ -1,0 +1,5 @@
+../Core/Src/DS3231.c:25:5:bcd_to_bin	1
+../Core/Src/DS3231.c:31:6:rtc_init	2
+../Core/Src/DS3231.c:45:9:to_bcd	1
+../Core/Src/DS3231.c:49:6:rtc_set_time	8
+../Core/Src/DS3231.c:71:6:rtc_get_time	5
